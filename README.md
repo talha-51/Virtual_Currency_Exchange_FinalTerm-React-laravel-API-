@@ -9,10 +9,10 @@ To do for running the project:
 1. Clone the repo
 2. Go to backend folder and run cmd. In cmd run these commands one by one:
     
-    composer install
-    copy .env.example .env
-    php artisan key:generate
-    npm install --global yarn
+    1. composer install
+    2. copy .env.example .env
+    3. php artisan key:generate
+    4. npm install --global yarn
 
 3. Go to backend & run cmd. In cmd run command:
     
